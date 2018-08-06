@@ -8,6 +8,10 @@
 
 **OmniTrack** is a mobile self-tracking platform that allows users to design flexible tracking tools by configuring data fields and combine existing tracking services.
 
+---
+
+※Currently, OmniTrack supports only an Android smartphone with > 4.4 (kitkat).
+
 ## Resources
 1. [Official website](https://omnitrack.github.io)
 2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
