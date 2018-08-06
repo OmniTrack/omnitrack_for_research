@@ -10,7 +10,7 @@
 
 ## Resources
 1. [Official website](https://omnitrack.github.io)
-2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki/Installation-Guide)
+2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
 
 
 ## Academic Paper
