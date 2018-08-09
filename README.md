@@ -15,9 +15,3 @@
 ## Resources
 1. [Official website](https://omnitrack.github.io)
 2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
-
-
-## Academic Paper
-- Young-Ho Kim, Jae Ho Jeon, Bongshin Lee, Eun Kyoung Choe, and Jinwook Seo<br>
-  [_OmniTrack: A Flexible Self-Tracking Approach Leveraging Semi-Automated Tracking_](https://omnitrack.github.io/ubicomp2017)<br>
-  PACM IMWUT 1(3), Article No. 67, 2017.
