@@ -12,6 +12,14 @@
 
 ※Currently, OmniTrack supports only Android >= 4.4 (kitkat), and there is no iOS version.
 
+## Disclaimer
+This library is currently building up documentation.
+<br>
+If you want to setup the system and use it for your research, 
+contact us and we will assist you on the undocumented parts.
+omnitrackapp@gmail.com
+
+
 ## Resources
 1. [Official website](https://omnitrack.github.io)
 2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
@@ -19,3 +27,10 @@
 ## Repositories
 1. [OmniTrack Backend Server](https://github.com/muclipse/omnitrack_backend_server)
 1. [OmniTrack Client for Android](https://github.com/muclipse/omnitrack_android)
+
+## The OmniTrack Team
+
+* Young-Ho Kim (Seoul National University)
+* Bongshin Lee (Microsoft Research)
+* Eun Kyoung Choe (University of Maryland)
+* Jinwook Seo (Seoul National University)
