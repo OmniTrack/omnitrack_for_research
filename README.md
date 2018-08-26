@@ -13,7 +13,7 @@
 ※Currently, OmniTrack supports only Android >= 4.4 (kitkat), and there is no iOS version.
 
 ## Disclaimer
-This library is currently building up documentation.
+Currently, we are building up documentation.
 <br>
 If you want to setup the system and use it for your research, 
 contact us and we will assist you on the undocumented parts.
