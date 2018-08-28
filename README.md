@@ -19,6 +19,11 @@ If you want to setup the system and use it for your research,
 contact us and we will assist you on the undocumented parts.
 omnitrackapp@gmail.com
 
+## Slack Channel
+We have a **Slack** channel at https://omnitrack-research.slack.com/
+<br>**Invitation request:** Send an E-mail to omnitrackapp@gmail.com 
+<br>If you have any inquiries or want to communicate anything directly with us, meet us at Slack.
+
 
 ## Resources
 1. [Official website](https://omnitrack.github.io)
