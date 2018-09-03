@@ -35,7 +35,7 @@ We have a **Slack** channel at https://omnitrack-research.slack.com/
 
 ## The OmniTrack Team
 
-* Young-Ho Kim (Seoul National University)
-* Bongshin Lee (Microsoft Research)
-* Eun Kyoung Choe (University of Maryland)
-* Jinwook Seo (Seoul National University)
+* [Young-Ho Kim](http://younghokim.net) (Ph.D Candidate | Seoul National University)
+* [Bongshin Lee](http://bongshiny.com) (Senior Researcher | Microsoft Research)
+* [Eun Kyoung Choe](http://eunkyoungchoe.com) (Assistant Professor | University of Maryland)
+* [Jinwook Seo](http://hcil.snu.ac.kr/jwseo) (Professor | Seoul National University)
