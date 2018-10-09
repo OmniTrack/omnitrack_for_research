@@ -1,3 +1,6 @@
+[![Join the chat at https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM](https://img.shields.io/badge/chat-on_slack-ff69b4.svg?style=flat-square)](https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM)
+
+
 <img src="https://github.com/OmniTrack/omnitrack_research_kit/blob/master/resources/omnitrack_research_kit_logo.svg" width="30%">
 
 **OmniTrack Research Kit** is a web-based research platform that allows researchers to conduct self-tracking studies by deploying an OmniTrack-powered customized mobile app.
@@ -23,6 +26,8 @@ omnitrackapp@gmail.com
 We have a **Slack** channel at https://omnitrack-research.slack.com/
 <br>**Invitation request:** Send an E-mail to omnitrackapp@gmail.com 
 <br>If you have any inquiries or want to communicate anything directly with us, meet us at Slack.
+
+[![Join the chat at https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM](https://img.shields.io/badge/chat-on_slack-ff69b4.svg?style=flat-square)](https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM)
 
 
 ## Resources
