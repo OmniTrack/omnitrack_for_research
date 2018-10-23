@@ -1,5 +1,18 @@
-<img src=https://img.shields.io/github/tag/muclipse/omnitrack_backend_server.svg> <img src=https://img.shields.io/github/license/muclipse/omnitrack_backend_server.svg>
  [![Join the chat at https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM](https://img.shields.io/badge/chat-on_slack-ff69b4.svg?style=flat-square)](https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM)
+
+<table>
+ <tr>
+  <th>Server</th>
+  <td>
+   <img src=https://img.shields.io/github/tag/muclipse/omnitrack_backend_server.svg> <img src=https://img.shields.io/github/license/muclipse/omnitrack_backend_server.svg> 
+   
+  </td>
+ </tr>
+ <tr>
+ <th>Android</th>
+ <td> <img src=https://img.shields.io/github/tag/muclipse/omnitrack_android.svg> <img src=https://img.shields.io/github/license/muclipse/omnitrack_android.svg> </td>
+</tr>
+</table>
 
 <img src="https://github.com/OmniTrack/omnitrack_research_kit/blob/master/resources/omnitrack_research_kit_logo.svg" width="30%">
 
