@@ -43,6 +43,13 @@ We have a **Slack** channel at https://omnitrack-research.slack.com/
 [![Join the chat at https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM](https://img.shields.io/badge/chat-on_slack-ff69b4.svg?style=flat-square)](https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM)
 
 
+## Published Research Projects using OmniTrack Research Kit
+| Paper Title                                                                                                                               | Published to             | Authors                                                                                         | Study Methods      | Link |
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------|--------------------|------|
+| Understanding Personal Productivity: Know Knowledge Workers Define, Evaluate, and Reflect on Their Productivity                           | ACM CHI 2019             | Young-Ho Kim, Eun Kyoung Choe, Bongshin Lee, and Jinwook Seo                                    | Diary Study        |   [Link](http://younghokim.net/works/50)   |
+| Toward Becoming a Better Self: Understanding Self-Tracking Experiences,of Adolescents with Autism Spectrum Disorder Using Custom Trackers | EAI PervasiveHealth 2019 | Sung-In Kim, Eunkyung Jo, Myeonghan Ryu, Inha,Cha, Young-Ho Kim, Heejeong Yoo, and Hwajung Hong | Co-design Workshop |      |
+
+
 ## Resources
 1. [Official website](https://omnitrack.github.io)
 2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
