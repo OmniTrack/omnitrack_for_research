@@ -36,6 +36,9 @@ If you want to setup the system and use it for your research,
 contact us and we will assist you on the undocumented parts.
 omnitrackapp@gmail.com
 
+[Official Documentation & Researcher Guide](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
+
+
 ## Slack Channel
 We have a **Slack** channel at https://omnitrack-research.slack.com/
 <br>If you have any inquiries or want to communicate anything directly with us, meet us at Slack.
@@ -52,7 +55,7 @@ We have a **Slack** channel at https://omnitrack-research.slack.com/
 
 ## Resources
 1. [Official website](https://omnitrack.github.io)
-2. [Documentation Wiki](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
+2. [Official Documentation & Researcher Guide](https://github.com/OmniTrack/omnitrack_research_kit/wiki)
 
 ## Repositories
 1. [OmniTrack Backend Server](https://github.com/muclipse/omnitrack_backend_server)
