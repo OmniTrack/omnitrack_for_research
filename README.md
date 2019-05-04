@@ -14,7 +14,7 @@
 </tr>
 </table>
 
-<img src="https://github.com/OmniTrack/omnitrack_for_research/blob/master/resources/omnitrack_for_research_logo.svg" width="30%">
+<img src="https://github.com/OmniTrack/omnitrack_for_research/blob/master/resources/omnitrack_for_research_logo.svg" width="400px">
 
 
 **OmniTrack for Research** is a web-based research platform that allows researchers to conduct self-tracking studies by deploying an OmniTrack-powered customized mobile app.
