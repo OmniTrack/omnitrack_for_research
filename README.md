@@ -37,7 +37,7 @@ Currently, we are building up documentation.
 <br>
 If you want to setup the system and use it for your research, 
 contact us and we will assist you on the undocumented parts.
-omnitrackapp@gmail.com
+omnitrack4research@gmail.com
 
 
 ## Slack Channel
