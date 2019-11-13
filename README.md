@@ -56,8 +56,9 @@ omnitrack4research@gmail.com
 1. [OmniTrack Client for Android](https://github.com/muclipse/omnitrack_android)
 
 ## The OmniTrack Team
+omnitrack4research@gmail.com
 
-* [Young-Ho Kim](http://younghokim.net) (Postdoc Researcher @ Seoul National University)
+* [Young-Ho Kim](http://younghokim.net) (Postdoc Researcher @ University of Maryland)
 * [Bongshin Lee](http://bongshiny.com) (Senior Researcher @ Microsoft Research)
 * [Eun Kyoung Choe](http://eunkyoungchoe.com) (Assistant Professor @ University of Maryland)
 * [Jinwook Seo](http://hcil.snu.ac.kr/jwseo) (Professor @ Seoul National University)
