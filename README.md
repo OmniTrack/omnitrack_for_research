@@ -40,13 +40,6 @@ contact us and we will assist you on the undocumented parts.
 omnitrack4research@gmail.com
 
 
-## Slack Channel
-We have a **Slack** channel at https://omnitrack-research.slack.com/
-<br>If you have any inquiries or want to communicate anything directly with us, meet us at Slack.
-
-[![Join the chat at https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM](https://img.shields.io/badge/chat-on_slack-ff69b4.svg?style=flat-square)](https://join.slack.com/t/omnitrack-research/shared_invite/enQtNDI2NTY2OTE0NDE5LTVlNjMxZjVhNzZkMjU3OWY1ZTE2MzY2YzEyNDFjNzA3MWUyYzM1OGI0OTFjZTJhNzcyOWVjNjE2OGNhYzI0ZWM)
-
-
 ## Published Research Projects that used _OmniTrack for Research_
 | Paper Title                                                                                                                               | Published to             | Authors                                                                                         | Study Methods      | Link |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------|--------------------|------|
