@@ -27,7 +27,7 @@
 
 ---
 
-※Currently, OmniTrack supports only Android >= 4.4 (kitkat), and there is no iOS version.
+※Currently, OmniTrack supports only Android >= 4.4 (kitkat), and there is no iOS version. Also, the Android version of OmniTrack requires **Google Play service** running on the smartphone. Please take that into account as it may affect the choice of the study population.
 
 
 ### [Official Documentation & Researcher Guide](https://github.com/OmniTrack/omnitrack_for_research/wiki)
