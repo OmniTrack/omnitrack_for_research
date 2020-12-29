@@ -48,7 +48,7 @@ omnitrack4research@gmail.com
 
 
 ## Resources
-1. [Official website](https://omnitrack.github.io)
+1. [Official website](https://omnitrack.github.io/research)
 2. [Official Documentation & Researcher Guide](https://github.com/OmniTrack/omnitrack_for_research/wiki)
 
 ## Repositories
