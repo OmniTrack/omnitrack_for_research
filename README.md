@@ -43,6 +43,8 @@ omnitrack4research@gmail.com
 ## Published Research Projects that used _OmniTrack for Research_
 | Paper Title                                                                                                                               | Published to             | Authors                                                                                         | Study Methods      | Link |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------|--------------------|------|
+| FoodScrap: Promoting Rich Data Capture and Reflective Food Journaling Through Speech Input | ACM DIS 2021 | Yuhan Luo, Young-Ho Kim, Bongshin Lee, Naeemul Hassan, and Eun Kyoung Choe | Speech-based Diary Study | |
+| Understanding Parenting Stress through Co-designed Self-Trackers | ACM CHI 2020 | Eunkyung Jo, Austin L. Toombs, Colin M. Gray, and Hwajung Hong | Co-design workshop | [Link](https://dl.acm.org/doi/10.1145/3313831.3376359) | 
 | Understanding Personal Productivity: Know Knowledge Workers Define, Evaluate, and Reflect on Their Productivity                           | ACM CHI 2019             | Young-Ho Kim, Eun Kyoung Choe, Bongshin Lee, and Jinwook Seo                                    | Diary Study        |   [Link](http://younghokim.net/works/50)   |
 | Toward Becoming a Better Self: Understanding Self-Tracking Experiences,of Adolescents with Autism Spectrum Disorder Using Custom Trackers | EAI PervasiveHealth 2019 | Sung-In Kim, Eunkyung Jo, Myeonghan Ryu, Inha,Cha, Young-Ho Kim, Heejeong Yoo, and Hwajung Hong | Co-design Workshop |      |
 
