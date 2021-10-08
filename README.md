@@ -62,5 +62,5 @@ omnitrack4research@gmail.com
 
 * [Young-Ho Kim](http://younghokim.net) (Postdoc Researcher @ University of Maryland)
 * [Bongshin Lee](http://bongshiny.com) (Sr. Principal Researcher @ Microsoft Research)
-* [Eun Kyoung Choe](http://eunkyoungchoe.com) (Assistant Professor @ University of Maryland)
+* [Eun Kyoung Choe](http://eunkyoungchoe.com) (Associate Professor @ University of Maryland)
 * [Jinwook Seo](http://hcil.snu.ac.kr/jwseo) (Professor @ Seoul National University)
